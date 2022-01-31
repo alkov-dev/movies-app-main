@@ -1,0 +1,23 @@
+.searchPanel {
+  max-width: 500px;
+  display: flex;
+  margin: 0 auto;
+}
+.searchPanel input {
+  outline: 0;
+  border: 0;
+  flex-grow: 1;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-bottom: rgba(255, 255, 255, 0.8);
+}
+.searchPanel button {
+  display: inline-block;
+  padding: 7px 15px;
+  background-color: rgba(255, 255, 255, 0.5);
+  color: #1C1F26;
+  font-size: 15px;
+  font-weight: bold;
+  outline: 0;
+  cursor: pointer;
+  border: none;
+}

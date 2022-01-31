@@ -1,0 +1,12 @@
+.movie-box {
+  margin-top: 20px;
+  display: flex;
+  color: #fff;
+}
+.movie-box img {
+  margin-right: 20px;
+  width: 30%;
+  height: 600px;
+  object-fit: cover;
+  object-position: top center;
+}

@@ -1,0 +1,24 @@
+.site-header {
+  background-color: #2B303B;
+  width: 100%;
+}
+.header-container {
+  padding: 15px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.header-link , .logo {
+  color: #fff;
+  text-decoration: none;
+  opacity: 0.6;
+}
+.header-link {
+  font-size: 16px;
+  margin: 0 15px;
+}
+
+
+.active {
+  opacity: 1;
+}

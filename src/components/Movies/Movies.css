@@ -1,0 +1,15 @@
+.movies-list {
+  padding: 20px 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.movies-list h3 {
+  color: #fff;
+}
+h4 {
+  color: #fff;
+  display: block;
+}

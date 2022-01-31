@@ -1,0 +1,23 @@
+.movie {
+  padding: 10px;
+  margin: 15px;
+  width: 300px;
+  background-color: #2B303B;
+}
+.movie img {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+  object-position: top center;
+}
+
+@media only screen and (max-width: 700px) {
+  .movie {
+    width: 400px;
+  }
+}
+@media only screen and (max-width: 490px) {
+  .movie {
+    width: 350px;
+  }
+}
